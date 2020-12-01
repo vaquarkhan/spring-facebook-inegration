@@ -1,4 +1,4 @@
-# spring-facebook-example
+# Spring-facebook-Integration
 How to integrate spring with facebook
 
 - https://github.com/fbsamples
